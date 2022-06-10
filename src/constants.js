@@ -1,0 +1,16 @@
+export const commands = {
+  goUpper: ["..", "up"],
+  exit: [".exit"],
+  list: ["ls", "list"],
+  changeDir: ["cd"],
+  readAndPrint: ["cat"],
+  createEmptyFile: ["add"],
+  renameFile: ["rn"],
+  copyFile: ["cp"],
+  moveFile: ["mv"],
+  deleteFile: ["rm"],
+  osInfo: ["os"],
+  hash: ["hash"],
+  compress: ["compress"],
+  decompress: ["decompress"],
+};
